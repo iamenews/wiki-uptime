@@ -10,7 +10,7 @@ status-website:
   theme: night
   cname: status.dovedale.wiki
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Dovedale Wiki Statuspage
   introTitle: Dovedale Wiki Uptime 
   introMessage: Having issues? Check out if its just you, or if its us. 
   navbar:
