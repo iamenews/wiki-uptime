@@ -16,25 +16,5 @@
     "timeMonth": 1339,
     "timeYear": 1339,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Downtime test",
-    "url": "https://http://dowaxcawwd.org",
-    "icon": "https://icons.duckduckgo.com/ip3/http.ico",
-    "slug": "downtime-test",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-05-13": 0
-    }
   }
 ]
