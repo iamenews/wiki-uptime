@@ -22,7 +22,7 @@ sites:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: status.dovedale.wiki
   status-website:
-  baseUrl: /repo # "repo" is your repository name
+  baseUrl: /wiki-uptime # "repo" is your repository name
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
