@@ -16,8 +16,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Wiki
+      href: https://dovedale.wiki
+    - title: Play
+      href: roblox://placeId=12018816388/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
