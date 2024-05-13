@@ -5,16 +5,14 @@ repo: wiki-uptime # The name of this repository
 sites:
   - name: Wiki Site
     url: https://dovedale.wiki
-  - name: Roblox service
-    url: https://roblox.com
 
 status-website:
   theme: night
   cname: status.dovedale.wiki
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Here you can view **live** status updates about Dovedale services."
-  introMessage: Please if any downtime occurs notify a staff member on our discord. (discord.gg/dovedale)
+  introTitle: Dovedale Wiki Uptime 
+  introMessage: Having issues? Check out if its just you, or if its us. 
   navbar:
     - title: Status
       href: /
@@ -22,6 +20,8 @@ status-website:
       href: https://dovedale.wiki
     - title: Play
       href: roblox://placeId=12018816388/
-
+      
+i18n:
+  footer: By The Dovedale Wiki Team 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
