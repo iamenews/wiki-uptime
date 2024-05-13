@@ -7,7 +7,7 @@ sites:
     url: https://dovedale.wiki
 
 status-website:
-  theme: ocean
+  theme: night
   cname: status.dovedale.wiki
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
