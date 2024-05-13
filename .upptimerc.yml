@@ -5,6 +5,8 @@ repo: wiki-uptime # The name of this repository
 sites:
   - name: Wiki Site
     url: https://dovedale.wiki
+  - name: Downtime test
+    url: https://http://dowaxcawwd.org
 
 status-website:
   theme: night
