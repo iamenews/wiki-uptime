@@ -9,7 +9,7 @@ sites:
 status-website:
   theme: night
   cname: status.dovedale.wiki
-  logoUrl: https://upload.wikimedia.org/wikipedia/commons/e/e4/Infobox_info_icon.svg
+  logoUrl: https://ibb.co/2MQK2kj
   name: Dovedale Wiki Statuspage
   introTitle: Dovedale Wiki Uptime 
   introMessage: Having issues? Check out if its just you, or if its us. 
