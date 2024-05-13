@@ -5,12 +5,6 @@ repo: wiki-uptime # The name of this repository
 sites:
   - name: Wiki Site
     url: https://dovedale.wiki
-  - name: Roblox API
-    url: api.roblox.com
-  - name: Roblox Chat
-    url: chat.roblox.com
-  - name: Roblox Games
-    url: games.roblox.com
 
 status-website:
   theme: night
