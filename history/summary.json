@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1321,
-    "timeDay": 1321,
-    "timeWeek": 1321,
-    "timeMonth": 1321,
-    "timeYear": 1321,
+    "time": 1339,
+    "timeDay": 1339,
+    "timeWeek": 1339,
+    "timeMonth": 1339,
+    "timeYear": 1339,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Downtime test",
+    "url": "https://http://dowaxcawwd.org",
+    "icon": "https://icons.duckduckgo.com/ip3/http.ico",
+    "slug": "downtime-test",
+    "status": "down",
+    "uptime": "0.94%",
+    "uptimeDay": "0.94%",
+    "uptimeWeek": "0.94%",
+    "uptimeMonth": "0.94%",
+    "uptimeYear": "0.94%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   }
 ]
