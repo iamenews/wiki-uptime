@@ -4,17 +4,19 @@
     "url": "https://dovedale.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/dovedale.wiki.ico",
     "slug": "wiki-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1323,
-    "timeDay": 1323,
-    "timeWeek": 1323,
-    "timeMonth": 1323,
-    "timeYear": 1323,
-    "dailyMinutesDown": {}
+    "time": 1279,
+    "timeDay": 1279,
+    "timeWeek": 1279,
+    "timeMonth": 1279,
+    "timeYear": 1279,
+    "dailyMinutesDown": {
+      "2024-05-14": 0
+    }
   }
 ]
