@@ -7,7 +7,7 @@ sites:
     url: https://dovedale.wiki
 
 status-website:
-  theme: ocean
+  theme: night
   cname: status.dovedale.wiki
   logoUrl: https://i.imgur.com/JXclmTo.png
   name: Dovedale Wiki Statuspage
