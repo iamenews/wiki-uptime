@@ -23,5 +23,9 @@ status-website:
       
 i18n:
   footer: By The Dovedale Wiki Team 
+
+status-website:
+  customBodyHtml: "<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
