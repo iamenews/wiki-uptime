@@ -9,7 +9,7 @@ sites:
 status-website:
   theme: night
   cname: status.dovedale.wiki
-  logoUrl: https://i.imgur.com/JXclmTo.png
+  logoUrl: https://http.cat/images/500.jpg
   name: Dovedale Wiki Statuspage
   introTitle: Dovedale Wiki Uptime 
   introMessage: Having issues? Check out if its just you, or if its us. 
