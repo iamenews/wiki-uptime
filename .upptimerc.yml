@@ -7,7 +7,7 @@ sites:
     url: https://dovedale.wiki/status.txt
   - name: Discord Bot
     url: $DOVE_ASSIST_SITE
-    icon: https://cdn.discordapp.com/avatars/1229499617549484174/591b48d8ef14adf15b50d84e61cc55c7.webp?size=80
+    icon: https://pouch.jumpshare.com/preview/ZHSpB_bUgGEhH5ioIG08U-GbNoWAyktJMC83KmjotTD5itS_kzFGVrumLKXqS21ZQm2MP4I3IuHhbr5JMppiJsf_qJeZpNIEL01xgzB8IZA
     maxResponseTime: 1000
     assignees:
       - kairijphk
