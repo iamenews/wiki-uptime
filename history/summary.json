@@ -10,11 +10,11 @@
     "uptimeWeek": "96.06%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.05%",
-    "time": 1511,
-    "timeDay": 486,
-    "timeWeek": 646,
-    "timeMonth": 646,
-    "timeYear": 1511,
+    "time": 1504,
+    "timeDay": 423,
+    "timeWeek": 620,
+    "timeMonth": 620,
+    "timeYear": 1504,
     "dailyMinutesDown": {
       "2024-09-15": 47,
       "2024-09-13": 351,
@@ -28,5 +28,23 @@
       "2024-06-06": 22,
       "2024-05-14": 15
     }
+  },
+  {
+    "name": "Discord Bot",
+    "url": "$DOVE_ASSIST_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "discord-bot",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 190,
+    "timeDay": 190,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
+    "dailyMinutesDown": {}
   }
 ]
