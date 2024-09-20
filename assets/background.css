@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(135deg, #2e004f, #5e008e);
+    min-height: 100vh; /* Ensure it covers the full viewport */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Optional styling */
+}
