@@ -7,6 +7,8 @@ sites:
     url: https://dovedale.wiki/status.txt
   - name: Discord Bot
     url: $DOVE_ASSIST_SITE
+    assignees:
+      - kairiJPHK
 
 status-website:
   theme: night
