@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.64%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.05%",
     "time": 1418,
@@ -34,17 +34,19 @@
     "url": "$DOVE_ASSIST_SITE",
     "icon": "https://camo.githubusercontent.com/a0eebdbc73e0f4b7ceaa45a39f72d53c92c7960bb3312868d8f6125ae13aeb79/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f617661746172732f313232393439393631373534393438343137342f35393162343864386566313461646631356235306438346536316363353563372e776562703f73697a653d3830",
     "slug": "dovedale-assistant-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 273,
     "timeDay": 273,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-20": 0
+    }
   }
 ]
