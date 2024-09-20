@@ -5,7 +5,7 @@ repo: wiki-uptime # The name of this repository
 sites:
   - name: Wiki Site
     url: https://dovedale.wiki/status.txt
-  - name: Discord Bot
+  - name: Dovedale Assistant Bot
     url: $DOVE_ASSIST_SITE
     icon: https://camo.githubusercontent.com/a0eebdbc73e0f4b7ceaa45a39f72d53c92c7960bb3312868d8f6125ae13aeb79/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f617661746172732f313232393439393631373534393438343137342f35393162343864386566313461646631356235306438346536316363353563372e776562703f73697a653d3830
     maxResponseTime: 1000
@@ -20,15 +20,17 @@ status-website:
   introTitle: Dovedale Wiki Uptime 
   introMessage: Having issues? Check out if its just you, or if its us. 
   navbar:
-    - title: Status
-      href: /
     - title: Wiki
       href: https://dovedale.wiki
     - title: Play
       href: roblox://placeId=12018816388/
+    - title: Repository
+      href: https://github.com/iamenews/wiki-uptime/
+    - title: Discord
+      href: https://discord.gg/hmqCYg4P23
       
 i18n:
-  footer: By The Dovedale Wiki Team 🐈
+  footer: By The Dovedale Wiki & Dev Team 🐈  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
