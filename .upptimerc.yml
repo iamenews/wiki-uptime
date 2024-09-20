@@ -19,7 +19,7 @@ status-website:
   name: Dovedale Wiki Statuspage
   introTitle: Dovedale Wiki Uptime 
   introMessage: Having issues? Check out if its just you, or if its us. 
-  customHeadHtml: <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script> 
+  customHeadHtml: <script async defer src="https://api.dovedale.wiki/latest.js"></script> 
   navbar:
     - title: Wiki
       href: https://dovedale.wiki
