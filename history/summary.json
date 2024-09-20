@@ -10,11 +10,11 @@
     "uptimeWeek": "96.06%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.05%",
-    "time": 1485,
-    "timeDay": 494,
-    "timeWeek": 603,
-    "timeMonth": 603,
-    "timeYear": 1485,
+    "time": 1479,
+    "timeDay": 504,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2024-09-15": 47,
       "2024-09-13": 351,
@@ -32,7 +32,7 @@
   {
     "name": "Discord Bot",
     "url": "$DOVE_ASSIST_SITE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://cdn.discordapp.com/avatars/1229499617549484174/591b48d8ef14adf15b50d84e61cc55c7.webp?size=80",
     "slug": "discord-bot",
     "status": "up",
     "uptime": "100.00%",
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   }
 ]
