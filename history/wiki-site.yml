@@ -1,7 +1,7 @@
 url: https://dovedale.wiki/status.txt
-status: down
-code: 400
-responseTime: 69
-lastUpdated: 2024-09-22T17:16:07.969Z
+status: up
+code: 200
+responseTime: 331
+lastUpdated: 2024-09-22T17:17:57.629Z
 startTime: 2024-05-13T13:00:50.147Z
 generator: Upptime <https://github.com/upptime/upptime>
