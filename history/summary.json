@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dovedale.wiki.ico",
     "slug": "wiki-site",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 1311,
     "timeDay": 613,
     "timeWeek": 838,
@@ -35,9 +35,9 @@
     "url": "$DOVE_ASSIST_SITE",
     "icon": "https://camo.githubusercontent.com/a0eebdbc73e0f4b7ceaa45a39f72d53c92c7960bb3312868d8f6125ae13aeb79/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f617661746172732f313232393439393631373534393438343137342f35393162343864386566313461646631356235306438346536316363353563372e776562703f73697a653d3830",
     "slug": "dovedale-assistant-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -46,6 +46,8 @@
     "timeWeek": 243,
     "timeMonth": 256,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   }
 ]
