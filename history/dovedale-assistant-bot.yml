@@ -1,7 +1,7 @@
 url: $DOVE_ASSIST_SITE
-status: degraded
+status: up
 code: 200
-responseTime: 3029
-lastUpdated: 2024-10-13T09:45:58.285Z
+responseTime: 183
+lastUpdated: 2024-10-13T09:53:11.993Z
 startTime: 2024-09-20T10:57:04.943Z
 generator: Upptime <https://github.com/upptime/upptime>
