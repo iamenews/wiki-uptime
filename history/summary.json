@@ -10,11 +10,11 @@
     "uptimeWeek": "98.54%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.14%",
-    "time": 1257,
-    "timeDay": 223,
-    "timeWeek": 391,
-    "timeMonth": 565,
-    "timeYear": 1257,
+    "time": 1253,
+    "timeDay": 510,
+    "timeWeek": 431,
+    "timeMonth": 564,
+    "timeYear": 1253,
     "dailyMinutesDown": {
       "2024-10-17": 147,
       "2024-10-05": 66,
@@ -37,18 +37,18 @@
     "icon": "https://camo.githubusercontent.com/a0eebdbc73e0f4b7ceaa45a39f72d53c92c7960bb3312868d8f6125ae13aeb79/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f617661746172732f313232393439393631373534393438343137342f35393162343864386566313461646631356235306438346536316363353563372e776562703f73697a653d3830",
     "slug": "dovedale-assistant-bot",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 303,
-    "timeDay": 249,
-    "timeWeek": 233,
-    "timeMonth": 314,
-    "timeYear": 303,
+    "uptime": "99.96%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 298,
+    "timeDay": 158,
+    "timeWeek": 227,
+    "timeMonth": 309,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2024-10-21": 26
+      "2024-10-21": 19
     }
   }
 ]
